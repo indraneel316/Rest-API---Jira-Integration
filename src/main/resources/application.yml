@@ -1,0 +1,7 @@
+jira:
+  secret: zRymAL0urBPBbbgmnwm92045
+  username: indraneel316@gmail.com
+  base-url: https://personal-neel.atlassian.net
+  ticket-url: /rest/api/2/issue
+server:
+  port: 9095
